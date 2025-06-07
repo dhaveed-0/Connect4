@@ -1,1 +1,1 @@
-This is a simple connect4 game
+This is a simple connect4 game. Enjoy!
